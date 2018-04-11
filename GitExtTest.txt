@@ -2,3 +2,4 @@ Git Extension add new file test
 Add some text...
 KeyWords test
 close issue TestKeyWord2
+resolve issue TestKeyWord3
